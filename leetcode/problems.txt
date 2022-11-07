@@ -1,0 +1,4 @@
+searching algorithms, e.g. BFS, DFS
+shortest path algorithms, e.g. Dijkstra’s algorithm, Nearest Neighbour
+spanning-tree algorithms, e.g. Prim’s algorithm
+clustering methods, e.g. Highly Connected Components, k-mean
